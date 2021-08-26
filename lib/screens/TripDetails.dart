@@ -216,14 +216,3 @@ class _TripDetailsState extends State<TripDetails> {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-///////////////////سيرءرءر
